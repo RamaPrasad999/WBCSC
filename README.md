@@ -1,5 +1,6 @@
 # WBCSC
 Calculate Score
+
 Dear All, We made an apps for calculating the score in WBCSC following the score pattern issued by wbcsc.
 HOW TO USE THE APP:
 1. Enter your name
